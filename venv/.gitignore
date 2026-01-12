@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Maxfiy va vaqtinchalik fayllar
+.env
+quiz_database.json
