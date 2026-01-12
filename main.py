@@ -519,7 +519,7 @@ async def start_loop(callback: types.CallbackQuery):
     game = ACTIVE_GAMES[chat_id]
 
     await callback.message.delete()
-    await callback.message.answer("🏁 <b>Test boshlandi!</b>")
+    await callback.message.answer("🏁 Test boshlandi!")
     await asyncio.sleep(2)
 
     total = len(game['questions'])
