@@ -18,11 +18,11 @@ from aiogram.types import (
     InlineQueryResultArticle, InputTextMessageContent
 )
 
-# --- ENV YUKLASH (.env faqat lokalda kerak) ---
+# --- ENV YUKLASH (.env faqat lokalda kerak, Render'da env vars bo'ladi) ---
 load_dotenv()
 
 # --- SOZLAMALAR ---
-BOT_TOKEN = os.getenv("BOT_TOKEN")  # Token faqat env'dan olinadi
+BOT_TOKEN = os.getenv("BOT_TOKEN")  # Token faqat environment'dan olinadi
 if not BOT_TOKEN:
     raise RuntimeError("BOT_TOKEN environment o'zgaruvchisi o'rnatilmagan!")
 
@@ -43,7 +43,7 @@ def load_db():
     try:
         with open(DB_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    except:
+    except Exception:
         return {}
 
 
@@ -115,17 +115,25 @@ async def cmd_start(message: types.Message):
 # --- TESTLARNI O'CHIRISH (DELETE) ---
 @dp.callback_query(F.data == "my_tests")
 async def show_my_tests(callback: types.CallbackQuery):
-    # Bazani yangilab olamiz
+    """Foydalanuvchining o'z testlari ro'yxatini ko'rsatish."""
     global SETUP_DATA
     SETUP_DATA = load_db()
 
-    if not SETUP_DATA:
+    user_id = callback.from_user.id
+
+    # Faqat shu foydalanuvchiga tegishli testlar
+    user_tests = [(q_id, d) for q_id, d in SETUP_DATA.items()
+                  if d.get('owner_id') == user_id]
+
+    if not user_tests:
         await callback.answer("Sizda hali testlar yo'q", show_alert=True)
         return
 
+    # Oxirgi 15 tasini olamiz
+    user_tests = user_tests[-15:]
+
     kb = []
-    # Oxirgi 15 ta testni ko'rsatish
-    for q_id, data in list(SETUP_DATA.items())[-15:]:
+    for q_id, data in user_tests:
         kb.append([InlineKeyboardButton(text=f"❌ {data['quiz_name']}", callback_data=f"del_{q_id}")])
 
     kb.append([InlineKeyboardButton(text="🔙 Bosh menyu", callback_data="back_home")])
@@ -139,15 +147,34 @@ async def show_my_tests(callback: types.CallbackQuery):
 
 @dp.callback_query(F.data.startswith("del_"))
 async def delete_test(callback: types.CallbackQuery):
-    q_id = callback.data.split("_")[1]
-    if q_id in SETUP_DATA:
-        del SETUP_DATA[q_id]
-        save_db(SETUP_DATA)  # Bazadan o'chiramiz
-        await callback.answer("✅ Test o'chirib tashlandi!")
-        await show_my_tests(callback)  # Ro'yxatni yangilaymiz
-    else:
+    """Tanlangan testni va shu nomdagi boshqa bo'laklarni ham o'chirish."""
+    global SETUP_DATA
+    q_id = callback.data.split("_", 1)[1]
+
+    # Agar bazada bu ID bo'lmasa
+    if q_id not in SETUP_DATA:
         await callback.answer("⚠️ Bu test allaqachon o'chirilgan", show_alert=True)
         await show_my_tests(callback)
+        return
+
+    # Shu test ma'lumotlari
+    test = SETUP_DATA[q_id]
+    name_to_delete = test['quiz_name']
+    owner_id = test.get('owner_id')
+
+    # Shu foydalanuvchiga tegishli, shu nomdagi barcha testlarni topamiz
+    keys_to_delete = [
+        k for k, v in list(SETUP_DATA.items())
+        if v.get('owner_id') == owner_id and v.get('quiz_name') == name_to_delete
+    ]
+
+    for k in keys_to_delete:
+        del SETUP_DATA[k]
+
+    save_db(SETUP_DATA)
+
+    await callback.answer(f"✅ '{name_to_delete}' nomli test(lar) o'chirildi!")
+    await show_my_tests(callback)
 
 
 @dp.callback_query(F.data == "back_home")
@@ -335,7 +362,7 @@ async def finish_creation(message: types.Message, state: FSMContext, parts_count
 
     try:
         await message.delete()
-    except:
+    except Exception:
         pass
 
     await message.answer(
@@ -354,7 +381,7 @@ async def finish_creation(message: types.Message, state: FSMContext, parts_count
             continue
 
         # ID yaratish
-        unique_id = f"{message.chat.id}_{i+1}_{random.randint(10000,99999)}"
+        unique_id = f"{message.chat.id}_{i+1}_{random.randint(10000, 99999)}"
 
         # Raqamlarni to'g'irlash
         real_start = start_idx + 1
@@ -372,7 +399,8 @@ async def finish_creation(message: types.Message, state: FSMContext, parts_count
             'time_per_question': data['time'],
             'shuffle_qs': data['shuffle_qs'],
             'shuffle_opts': data['shuffle_opts'],
-            'author': message.chat.full_name
+            'author': message.chat.full_name,
+            'owner_id': message.from_user.id,  # <-- egasi
         }
 
         save_db(SETUP_DATA)
@@ -415,7 +443,7 @@ async def inline_handler(query: types.InlineQuery):
         content = (
             f"🎲 <b>{data['quiz_name']}</b>\n"
             f"🖊 {len(data['questions'])} ta savol\n"
-            f"👤 {data.get('author','Bot')}"
+            f"👤 {data.get('author', 'Bot')}"
         )
 
         res.append(InlineQueryResultArticle(
@@ -514,7 +542,7 @@ async def start_loop(callback: types.CallbackQuery):
             random.shuffle(opts)
             try:
                 corr_idx = opts.index(correct_text)
-            except:
+            except ValueError:
                 corr_idx = 0
 
         try:
