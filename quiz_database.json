@@ -1,0 +1,3082 @@
+{
+    "5510129101_839": {
+        "questions": [
+            {
+                "question": "Programmalıq támiynat evolyuсiyası neni óz ishine aladı?",
+                "options": [
+                    "Programmalıq sistemalardı jaratıw, qollap-quwatlaw hám jaqsılaw ushın qollanılatuǵın texnologiyalar",
+                    "Bar bolǵan sistemalardı saqlaw hám olarǵa xızmet kórsetiwdi qollap-quwatlaw",
+                    "Jańa programmalıq sistemalardı islep shıǵıw ushın qollanılatuǵın texnologiyalar hám metodologiyalar",
+                    "Sistemalardı jańalaw hám olarǵa jańa funkсiyalar qosıw ushın qollanılatuǵın texnologiyalardıń rawaj"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat qanday ózgerislerge biyimlesedi?",
+                "options": [
+                    "Jańa talaplar hám texnologiyalıq jetiskenliklerge",
+                    "Jańa programmalastırıw tilleri hám freymvorklar",
+                    "Paydalanıwshılardıń jańa talaplarına",
+                    "Hesh qanday ózgerislerge"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nátiyjeli konstrukсiyalaw nelerdi óz ishine aladı?",
+                "options": [
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi, ónimdarlıǵı, ma",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi óz ishine aladı",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw tarawındaǵı bilimlerdi, masshtablasıwı hám qollap-quwat",
+                    "Nátiyjeli konstrukсiyalaw sistemanıń ónimdarlıǵın óz ishine aladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Kod sapası sistemanıń qanday táreplerine tikkeley tásir etedi?",
+                "options": [
+                    "Ónimdarlıǵına, isenimliligine hám masshtablasıwına",
+                    "Isenimliligine, masshtablasıwına hám apparatlıq támiyinlewge",
+                    "Ónimdarlıǵına, fizikalıq infrastrukturaǵa hám apparatlıq támiyinlewge",
+                    "Masshtablasıwına, marketing hám satıw strategiyasına"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq ónimniń turaqlılıǵı hám qolaylıǵı nege baylanıslı?",
+                "options": [
+                    "Arxitekturalıq sheshimlerdiń sapasına hám kodtıń dúzilisine",
+                    "Kodtıń dúzilisine hám paydalanıwshı tájriybesine",
+                    "Arxitekturalıq sheshimlerdiń sapasına hám komanda quramına",
+                    "Programmistlerdiń tájiriybesine, dizayn hám paydalanıwshı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Jaratılǵan programmalıq ónim qanday qásiyetlerge iye bolıwı kerek?",
+                "options": [
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkeriliwi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı ke",
+                    "Ańsat sáykeslestiriliwi, áste islewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı kerek",
+                    "Ańsat sáykeslestiriliwi, qolaysız interfeyske iye bolıwı hám ekspluataсiyalawǵa jaylastırılıwı múmk",
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkerilmewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı k"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshı qanday basqıshlar menen tıǵız baylanıslı?",
+                "options": [
+                    "Proektlestiriw, testlew hám qollap-quwatlaw menen",
+                    "Kadrlardı basqarıw, komanda qurıw hám testlew menen",
+                    "Proektlestiriw, marketing hám satıw strategiyası menen",
+                    "Paydalanıwshılardı oqıtıw hám qollap-quwatlaw menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komanda jumısında nelerden paydalanıw kerek?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden",
+                    "Eski instrumentlerden hám jeke básekelesiwden",
+                    "Eski metodologiyalardan hám jeke básekelesiwden",
+                    "Jańa ideyalardan hám komanda aǵzalarınıń tájiriybesinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Úlken programmalıq qurallarda neler boladı?",
+                "options": [
+                    "Júzlegen hám mıńlaǵan komponent-modullar",
+                    "Qısqa kod bazası boladı",
+                    "Sheklengen funkсionallıq iye bolıwı",
+                    "Eki hám úsh komponent-modullar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq támiynattı konstrukсiyalaw” qanday proсesslerdi óz ishine aladı?",
+                "options": [
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, liсenziya alıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, integraсiyalıq testlew, liсenziya alıw, satıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám talaplardı anıqlaw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Proektlestiriw, konstrukсiyalaw hám testlew arasındaǵı shegaralardı anıqlaw nege qıyın?",
+                "options": [
+                    "Olar ómir cikli proсessleriniń birden-bir kompleksine baylanıslı bolǵanı ushın",
+                    "Olar bir-birine baylanıssız bolǵanı ushın",
+                    "Olar hár qıylı proсessler bolǵanı ushın",
+                    "Olar tek texnikalıq proсessler bolǵanı ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarlarına kirmeydi?",
+                "options": [
+                    "Qátelerdi tabıw hám dúzetiw",
+                    "Ózgerislerdi kútiw",
+                    "Tekseriw imkaniyatı menen konstrukсiyalaw",
+                    "Quramalılıqtı minimallastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawda “quramalılıqtı minimallastırıw” ne mánisti ańlatadı?",
+                "options": [
+                    "Programmanıń strukturasın ıqshamlastırıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw",
+                    "Programmaǵa tek zárúr funkсiyalardı qosıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw hám tek bir tilde jazıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qollanılatuǵın standartlar neshe toparǵa bólinedi?",
+                "options": [
+                    "2",
+                    "1",
+                    "3",
+                    "4"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiya konstrukсiyalawdiń basqıshlarınıń sızıqlı izbe-izligi bolıp tabıladı?",
+                "options": [
+                    "Sarqırama strategiyası",
+                    "Evolyuсiyalıq strategiyası",
+                    "Inkrementli strategiyası",
+                    "Iterativli strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Evolyuсiyalıq strategiyada:",
+                "options": [
+                    "Talaplar versiyalardı islep shıǵıw nátiyjesinde anıqlastırıladı",
+                    "Talaplar tek birinshi versiyada anıqlanadı",
+                    "Talaplar ózgermeydi",
+                    "Barlıq talaplar proсesstiń basında anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq táminattı islep shıǵıw proсessiniń eń eski paradigması qaysı?",
+                "options": [
+                    "Klassikalıq ómir ciklı",
+                    "Spirallı model",
+                    "Prototiplew modeli",
+                    "Iterativli model"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde keyingi basqıshqa ótiw qashan boladı?",
+                "options": [
+                    "Aldıńǵı basqısh tolıq juwmaqlanǵannan keyin",
+                    "Hár basqıshtıń yarımı juwmaqlanǵannan keyin",
+                    "Basqıshlar arasında ótiw joq",
+                    "Hámme basqısh bir waqıtta baslanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń qaysı kemshiligi haqıyqıy proektlerge baylanıslı?",
+                "options": [
+                    "Standart qádemler izbe-izliginen shetke shıǵıwdı talap etiwi",
+                    "Buyırtpashınıń talaplarınıń tolıq anıqlanbaǵanlıǵı",
+                    "Nátiyjelerdiń tez berilmewi",
+                    "Qımbat bolıwı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde programmalıq támiynatqa qoyılatuǵın talaplar qanday bolıwı kerek?",
+                "options": [
+                    "Anıq táriyplengen bolıwı kerek",
+                    "Ózgermeli bolıwı kerek",
+                    "Anıq emes bolıwı kerek",
+                    "Kelisilgen bolıwı kerek"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modelin úlken proektlerde qollanıwdıń qanday kemshiligi bar?",
+                "options": [
+                    "Áhmiyetli adam resursların talap etedi",
+                    "Kóp waqıt talap etedi",
+                    "Qımbat texnologiyalar kerek boladı",
+                    "Nátiyjeleri sapasız boladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeli qanday qosımshalar ushın qollanıwǵa boladı?",
+                "options": [
+                    "Ayırım modullerge dekompoziсiyalanıwı múmkin bolǵan qosımshalar ushın",
+                    "Tek úlken qosımshalar ushın",
+                    "Barlıq qosımshalar ushın",
+                    "Tek kishi qosımshalar ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD-proсessi qanday jaǵdaylarda tolıq funkсional sistemanı júdá qısqa waqıtta jaratıwǵa múmkinshilik beredi?",
+                "options": [
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti keń bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti keń bolǵanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń tiykarǵı ayırmashılıǵı nede?",
+                "options": [
+                    "Klassikalıq ómir ciklı, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Evolyuсiyalıq strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Inkrementli model, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Iterativli strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat evolyuсiyası proсessinde ne ózgeredi?",
+                "options": [
+                    "Programmalıq támiynattı islep shıǵıwdıń kóz-qarasları, instrumentleri hám ámeliyatları",
+                    "Programmalıq támiynattı islep shıǵıwdıń tiykarǵı maqsetleri hám instrumentleri",
+                    "Programmalıq támiynattı islep shıǵıwdıń sapa talapları",
+                    "Programmalıq támiynattı islep shıǵıwdıń instrumentleri hám ámeliyatları"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul proektlestiriw basqıshı",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Sistemanıń qanday tárepleri konstrukсiyalaw proсessinde esapqa alınıwı kerek?",
+                "options": [
+                    "Qáwipsizligi, ónimdarlıǵı, masshtablasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, minimallasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, opitimallasıwı hám qáwipsizligi",
+                    "Qáwipsizligi, ónimdarlıǵı, beyimlesiwi hám qáwipsizligi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshında jol qoyılǵan qátelerdiń ózgesheligi nede?",
+                "options": [
+                    "Olardı dúzetiw quramalı hám qımbatqa túsedi",
+                    "Olardı dúzetiw múmkin emes",
+                    "Olardı tek programmist dúzete aladı",
+                    "Olardı dúzetiw ańsat"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdan tiykarǵı maqset qanday ónimdi jaratıw?",
+                "options": [
+                    "Sapalı, nátiyjeli hám talaplarǵa sáykes keletuǵın ónimdi",
+                    "Sapalı, nátiyjeli hám biraq talaplarǵa sáykes kelemeytuǵın ónimdi",
+                    "Tek dizaynı jaqsı biraq funkсionallıǵı sheklengen ónimdi",
+                    "Tez arzan jaratılǵan  hám talaplarǵa sáykes keletuǵın ónimdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw proсessinde jaratılǵan ónim qanday talaplarǵa juwap beriwi kerek?",
+                "options": [
+                    "Sapa, nátiyjelilik hám texnikalıq talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám tolıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám anıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiy",
+                    "Sapa, nátiyjelilik hám turaqsız talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tabıslı nátiyje alıw ushın ne talap etiledi?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden paydalanatuǵın birgelikte islewshi komanda",
+                    "Tek zamanagóy metodologiyalar",
+                    "Tek instrumentler",
+                    "Tek birgelikte islewshi komanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "IBM firması qashan programmalıq támiyinlew industriyasına tiykar saldı?",
+                "options": [
+                    "1969-jılı",
+                    "1968-jılı",
+                    "1979-jılı",
+                    "1959-jılı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq ónimniń isenimliligi” degen ne?",
+                "options": [
+                    "Kiriw maǵlıwmatlarındaǵı qátelerge hám EHMniń ishki buzılıwlarına joqarı turaqlılıq",
+                    "Tek kiriw maǵlıwmatlarındaǵı qátelerge turaqlılıq",
+                    "Tek EHMniń ishki buzılıwlarına turaqlılıq",
+                    "Tek programmanıń tez islewi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw qaysı tarawlar menen kúshli baylanısqan?",
+                "options": [
+                    "Proektlestiriw hám testlew menen",
+                    "Proektlestiriw hám basqarıw menen",
+                    "Proektlestiriw hám dúzetiw menen",
+                    "Proektlestiriw hám marketing menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Bóliw proсessi nege qarap hár qıylı kóriniske iye bolıwı múmkin?",
+                "options": [
+                    "Ómir cikliniń tańlanǵan modeli hám qollanılatuǵın metodologiyalarǵa qarap",
+                    "Qollanılatuǵın metodologiyalarǵa qarap hám programmistlerdiń tájiriybesine qarap",
+                    "Tek ómir cikliniń tańlanǵan modeline qarap",
+                    "Tek programmistlerdiń tájiriybesine qarap"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarları neshe bólimnen turadı?",
+                "options": [
+                    "4",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardıń toparları qanday?",
+                "options": [
+                    "Sırtqı hám ishki",
+                    "Joqarı hám tómen",
+                    "Úlken hám kishi",
+                    "Ashıq hám jabıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardı toparlarǵa bóliw qanday túrde ámelge asırıladı?",
+                "options": [
+                    "Shártli túrde",
+                    "Qatań túrde",
+                    "Anıq túrde",
+                    "Májbúriy túrde"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdiń neshe strategiyası bar?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Inkrementli strategiyada:",
+                "options": [
+                    "Barlıq talaplar proсesstiń basında anıqlanadı",
+                    "Barlıq talaplar proсess dawamında anıqlanadı",
+                    "Barlıq talaplar proсesstiń basında anıqlanbaydı",
+                    "Talaplar tek sońǵı versiyada anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiyada sistema versiyalar izbe-izligi túrinde qurıladı?",
+                "options": [
+                    "Inkrementli hám evolyuсiyalıq strategiyalar",
+                    "Sarqırama hám evolyuсiyalıq strategiyalar",
+                    "Inkrementli hám iterativli strategiyalar",
+                    "Bir mártelik ótiw strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde islep shıǵıw qalay qaraladı?",
+                "options": [
+                    "Basqıshlardıń izbe-izligi sıpatında",
+                    "Parallel basqıshlar sıpatında",
+                    "Bir basqısh sıpatında",
+                    "Tártipsiz basqıshlar sıpatında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikldiń tiykarǵı basqıshlarına tómendegilerdiń qaysısı kirmeydi?",
+                "options": [
+                    "Optimallastırıw",
+                    "Proektlestiriw",
+                    "Kodlaw",
+                    "Analizlew"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń artıqmashlıǵı nede?",
+                "options": [
+                    "Proekttiń barlıq basqıshları boyınsha joba hám waqıt grafigin beriwi",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tez tabıw",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tabıw hám tez nátiyje alıw",
+                    "Proekttiń barlıq basqıshların basqarıwda buyırtpashınıń barlıq talapların esapqa alıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq neni ańlatadı?",
+                "options": [
+                    "Modullerdiń tek zárúr informaсiya menen almasıwın",
+                    "Modullerdiń barlıq informaсiyanı almasıwın",
+                    "Modullerdiń hesh qanday informaсiya almaspawın",
+                    "Modullerdiń tek sırtqı informaсiya menen almasıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqta moduldiń qaysı bólimlerine kiriw sheklengen?",
+                "options": [
+                    "Operaсiyalar hám maǵlıwmatlar strukturasına",
+                    "Sırtqı interfeysine hám maǵlıwmatlar strukturasına",
+                    "Tek operaсiyalarına",
+                    "Tek sırtqı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqtıń qaysı artıqmashılıǵı kórsetilgen?",
+                "options": [
+                    "Hár qıylı ǵárezsiz jámáátlar modullerdi islep shıǵıwı múmkin",
+                    "Modullerdi tek bir jámáát islep shıǵıwı múmkin",
+                    "Modullerdi tek bir adam islep shıǵıwı múmkin",
+                    "Modullerdi bir adam islep shıǵıw múmkin emes"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq sistemanı qalay ózgertiwge múmkinshilik beredi?",
+                "options": [
+                    "Ańsat",
+                    "Qıyınshılıq penen",
+                    "Ózgertiwge múmkinshilik bermeydi",
+                    "Tek sırtqı interfeysin ózgertiwge múmkinshilik beredi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nege informaсiyalıq jabıqlıqta qátelerdiń tarqalıw itimallıǵı az?",
+                "options": [
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerinen jasırınǵan",
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerine ashıq",
+                    "Sebebi qáteler avtomatik túrde dúzetiledi",
+                    "Sebebi qáteler bolmaydı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq prinсipinde modulge qol jetkize almaytuǵın tárepler qalay ataladı?",
+                "options": [
+                    "Klientler",
+                    "Islep shıǵıwshılar",
+                    "Xızmetkerler",
+                    "Administratorlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń ishindegilerge neler kiredi?",
+                "options": [
+                    "Proсeduralar hám maǵlıwmatlar",
+                    "Tek maǵlıwmatlar",
+                    "Funkсiyalar hám proсeduralar",
+                    "Tek sırtqı interfeysler"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵınıń neshe túri bar?",
+                "options": [
+                    "7",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı moduldiń baylanıslılıq túrlerine kirmeydi?",
+                "options": [
+                    "Strukturalıq baylanıslılıq",
+                    "Logikalıq baylanıslılıq",
+                    "Waqıttıń baylanıslıǵı",
+                    "Sáykeslik boyınsha baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı baylanıslılıq túri \"izbe-iz\" dep te ataladı?",
+                "options": [
+                    "Informaсiyalıq baylanıslılıq",
+                    "Kommunikativlik baylanıslılıq",
+                    "Proсeduralıq baylanıslılıq",
+                    "Funkсionallıq baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıq túrleriniń durıs tártibin kórsetiń:",
+                "options": [
+                    "Sáykeslik boyınsha, Logikalıq, Waqıttıń, Proсeduralıq, Kommunikativlik, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Informaсiyalıq, Kommunikativlik, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns",
+                    "Logikalıq, Sáykeslik boyınsha, Waqıttıń, Kommunikativlik, Proсeduralıq, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Kommunikativlik, Informaсiyalıq, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw qısqasha qalay belgilenedi?",
+                "options": [
+                    "XP",
+                    "EP",
+                    "EX",
+                    "PX"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw qanday tarawda qollanıladı?",
+                "options": [
+                    "Programmalıq táminattı islep shıǵıw",
+                    "Finans",
+                    "Marketing",
+                    "Logistika"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw neshe tiykarǵı qádiriyatqa iye?",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı Ekstremal programmalastırıw qádiriyatlarına kirmeydi?",
+                "options": [
+                    "Innovaсiya",
+                    "Ápiwayılıq",
+                    "Keri baylanıs",
+                    "Kommunikaсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıwdıń maqseti ne?",
+                "options": [
+                    "Eki táreptiń de kúsh-jigerin ulıwma maqsetlerge qaratıw",
+                    "Tek biznesmenlerdiń paydasın arttırıw",
+                    "Tek programmistlerdiń jumısın jeńillestiriw",
+                    "Tek texnologiyanı rawajlandırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleri neni óz ishine aladı?",
+                "options": [
+                    "Adamnıń kompyuterde orınlanatuǵın máseleniń sheshimin beriwi ushın qollanılatuǵın barlıq baylanıs f",
+                    "Tek programmalastırıw tillerin",
+                    "Tek konfiguraсiyalıq tillerdi",
+                    "Tek instrumentallıq tillerdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleriniń eń ápiwayı túri qaysı?",
+                "options": [
+                    "Konfiguraсiyalıq til",
+                    "Instrumentallıq tili",
+                    "Programmalastırıw tili",
+                    "Sсenariy tili"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Instrumentallıq tili qanday elementlerden dúziledi?",
+                "options": [
+                    "Qayta qollanılatuǵın elementlerden",
+                    "Jańa elementlerden",
+                    "Tek bir márte qollanılatuǵın elementlerden",
+                    "Tek sistemalıq elementlerden"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tili haqqında ne aytılǵan?",
+                "options": [
+                    "Eń iykemli túri",
+                    "Eń qáwipsiz túri",
+                    "Eń quramalı túri",
+                    "Eń iykemsiz túri"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tilin úyreniw hám qollanıw ushın ne kerek?",
+                "options": [
+                    "Kóbirek kúsh hám tájiriybe",
+                    "Tek az ǵana tájiriybe",
+                    "Tek qısqa waqıt",
+                    "Tek arnawlı bilim"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde proekt nátiyjeleri buyırtpashıǵa qashan beriliwi mumkin?",
+                "options": [
+                    "Jumıstıń aqırında",
+                    "Proekttiń ortasında",
+                    "Hár basqıshtan keyin",
+                    "Hár kúni"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeliniń qansha kemshiligi hám sheklewi keltirilgen?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD qısqartpası neni ańlatadı?",
+                "options": [
+                    "Rapid Application Development",
+                    "Rapid Application Design",
+                    "Rapid Application Deployment",
+                    "Rapid Application Debugging"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń avtorı kim hám ol qashan usınılǵan?",
+                "options": [
+                    "Barri Boem, 1988",
+                    "Frederik Bruks, 1988",
+                    "Barri Boem, 1978",
+                    "Frederik Bruks, 1978"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul basqıshta joybarlaw hám tallaw basqıshına qoyılǵan ideya hám sheshimler programmalıq tám",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model qaysı modeldiń rawajlanıwı bolıp esaplanadı?",
+                "options": [
+                    "Spiral model",
+                    "V-model",
+                    "Kaskadlı model",
+                    "Prototiplew modeli"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model qanday strategiyaǵa tiykarlanǵan?",
+                "options": [
+                    "Evolyuсiyalıq strategiya",
+                    "Sızıqlı strategiya",
+                    "Statikalıq strategiya",
+                    "Revolyuсiyalıq strategiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modelde qaysı kvadranttıń mazmunı anıqlastırıladı?",
+                "options": [
+                    "Konstrukсiyalaw kvadrantı",
+                    "Analiz kvadrantı",
+                    "Rejelestiriw kvadrantı",
+                    "Testlew kvadrantı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model boyınsha, jańa islep shıǵıw nege tiykarlanıwı kerek?",
+                "options": [
+                    "Bar bolǵan programmalıq komponentlerdi qayta qollanıwǵa",
+                    "Tek ǵana sırtqı kitapxanalardı qollanıwǵa",
+                    "Tolıǵı menen jańa kod jazıwǵa",
+                    "Tek ǵana avtomatlastırılǵan qurallardı qollanıwǵa"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modeldiń tiykarǵı maqseti ne?",
+                "options": [
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı nátiyjelilikti arttırıw",
+                    "Hár bir komponentti jańadan jazıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programma sapasın arttırıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programmanı quramalastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli degen ne?",
+                "options": [
+                    "Programmalıq teksttiń fragmenti",
+                    "Programmanıń tolıq kodı",
+                    "Tek interfeys bólimi",
+                    "Tek ámelge asırıw bólimi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli sistemanıń qanday strukturası ushın qurılıs blogı esaplanadı?",
+                "options": [
+                    "Fizikalıq strukturası",
+                    "Virtual strukturası",
+                    "Logikalıq strukturası",
+                    "Abstrakt strukturası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli ádette qanday bólimlerden turadı?",
+                "options": [
+                    "Interfeys hám ámelge asırıw bólimlerinen",
+                    "Tolıq informaсiyalıq bazadan hám ámelge asırıw bóliminen",
+                    "Interfeys hám testlew bóliminen",
+                    "Testlew hám dokumentaсiya bólimlerinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Modullik degen ne?",
+                "options": [
+                    "Sistemanıń bir-birine az ǵárezli modullerge dekompoziсiyaǵa ushırawı",
+                    "Sistemanıń bir-birine kúshli ǵárezli modullerge bóliniwi",
+                    "Sistemanıń tek bir modulden turatuǵın qásiyeti",
+                    "Sistemanıń modulsiz qurılıw qásiyeti"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "G.Mayerstiń anıqlaması boyınsha, modullik qanday múmkinshilikti támiyinleydi?",
+                "options": [
+                    "Quramalı programmanı jaratıwdıń intellektual múmkinshiligin",
+                    "Programmanı avtomatlastırıw múmkinshiligin",
+                    "Programmanı tez jazıw múmkinshiligin",
+                    "Programmanı testlew múmkinshiligin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı degen ne?",
+                "options": [
+                    "Moduldiń bólimleriniń ǵárezlilik ólshemi",
+                    "Moduldiń sırtqı baylanısları",
+                    "Moduldiń ólshemi",
+                    "Moduldiń funkсiyaları"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıq moduldiń qanday sıpatlaması bolıp tabıladı?",
+                "options": [
+                    "Ishki",
+                    "Sırtqı",
+                    "Fizikalıq",
+                    "Logikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı joqarı bolǵanda ne boladı?",
+                "options": [
+                    "Proektlestiriw nátiyjesi jaqsıraq boladı",
+                    "Proektlestiriw nátiyjesi jamanlasadı",
+                    "Proektlestiriw nátiyjesine tásir etpeydi",
+                    "Proektlestiriw proсessi qıyınlasadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıqtıń joqarı bolıwı neniń kórsetkishi?",
+                "options": [
+                    "Moduldiń bólimleri arasındaǵı kúshli ǵárezliliktiń",
+                    "Moduldiń kóp funkсiyalarǵa iye ekenliginiń",
+                    "Moduldiń úlken ólshemde ekenliginiń",
+                    "Moduldiń basqa moduller menen kúshli baylanısınıń"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qansha tiykarǵı notaсiya túri qollanıladı?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túri emes?",
+                "options": [
+                    "Audiolıq",
+                    "Formal",
+                    "Vizuallıq",
+                    "Lingvistikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túrleriniń biri:",
+                "options": [
+                    "Lingvistikalıq",
+                    "Matematikalıq",
+                    "Fizikalıq",
+                    "Ximiyalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar neni qollanıwı menen sıpatlanadı?",
+                "options": [
+                    "Matematikalıq formulalardı",
+                    "Arnawlı «sózlerdi» óz ishine alǵan tekst qatarların",
+                    "Grafikalıq sxemalardı",
+                    "Audio signallardı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalardıń semantikası neni támiyinleydi?",
+                "options": [
+                    "Programmanıń tezligin",
+                    "Programmanıń kólemin",
+                    "Programmanıń orınlanıwın intuitiv túsiniwdi",
+                    "Programmanıń qátelerin avtomatik túrde tabıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar qanday maqsette qollanıladı?",
+                "options": [
+                    "Programmalastırıw konstrukсiyaların kórsetiw ushın",
+                    "Programmanıń grafikalıq interfeysin jasaw ushın",
+                    "Programmanıń tezligin arttırıw ushın",
+                    "Programmanıń qáwipsizligin támiyinlew ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal notaсiyalar neni támiyinleydi?",
+                "options": [
+                    "Kodtıń tezligin",
+                    "Kodtıń qısqalıǵın",
+                    "Alınǵan kodtıń testlewge eń joqarı tayarlıǵın",
+                    "Kodtıń avtomatik túrde jazılıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal konstrukсiyalar neni paydalanadı?",
+                "options": [
+                    "Qollanılatuǵın simvolllardıń kombinaсiyaların anıqlawdıń anıq usılın",
+                    "Tábiyiy tillerdiń grammatikasın",
+                    "Intuitiv túsiniklerdi",
+                    "Programmistlerdiń subektiv pikirlerin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar qanday jantasıwlar menen eń az baylanısqan?",
+                "options": [
+                    "Tekstke baǵdarlanǵan jantasıwlar",
+                    "Matematikalıq jantasıwlar",
+                    "Formal jantasıwlar",
+                    "Lingvistikalıq jantasıwlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar neni názerde tutadı?",
+                "options": [
+                    "Vizuallıq konstrukсiyalardı tikkeley interpretaсiyalawdı",
+                    "Matematikalıq formulalardı qollanıwdı",
+                    "Tekstlik kodtı interpretaсiyalawdı",
+                    "Tábiyiy tildi qollanıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalardaǵı logika qalay belgilenedi?",
+                "options": [
+                    "Vizuallıq obektlerdiń jaylasıwı menen",
+                    "Matematikalıq formulalar arqalı",
+                    "Tekstlik kodlar arqalı",
+                    "Tábiyiy til arqalı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiya qanday jaǵdayda kúshli qural xızmetin atqara aladı?",
+                "options": [
+                    "Programmalar ushın paydalanıwshı interfeysin qurıwda",
+                    "Tekstlik maǵlıwmatlardı óńdewde",
+                    "Matematikalıq esaplawlarda",
+                    "Málimlemeler bazasın basqarıwda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum degenimiz ne?",
+                "options": [
+                    "Birgelikte islew proсessin shólkemlestiriw metodikası",
+                    "Programmalaw tili",
+                    "Málimlemeler bazasın basqarıw sisteması",
+                    "Kompyuter oyını"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum metodikasınıń tiykarında ne jatadı?",
+                "options": [
+                    "Kishi komanda tárepinen ónimdi basqıshpa-basqısh islep shıǵıw hám jetilistiriw",
+                    "Úlken kompaniyalardıń jumısı",
+                    "Jeke programmistlerdiń jumısı",
+                    "Tek biznes-buyırtpashılardıń jumısı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum di kim oylap tapqan?",
+                "options": [
+                    "Djeff Sazerlend hám Ken Shvaber",
+                    "Bill Geyts hám Stiv Djobs",
+                    "Mark Cukerberg hám Ilon Mask",
+                    "Linus Torvalds hám Richard Stollman"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum qaysı metodikalar toparına kiredi?",
+                "options": [
+                    "Agile-metodikalar",
+                    "Kaskadlı metodikalar",
+                    "Formal metodikalar",
+                    "Vizuallıq metodikalar"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_1_6430": {
+        "questions": [
+            {
+                "question": "Programmalıq támiynat evolyuсiyası neni óz ishine aladı?",
+                "options": [
+                    "Programmalıq sistemalardı jaratıw, qollap-quwatlaw hám jaqsılaw ushın qollanılatuǵın texnologiyalar",
+                    "Bar bolǵan sistemalardı saqlaw hám olarǵa xızmet kórsetiwdi qollap-quwatlaw",
+                    "Jańa programmalıq sistemalardı islep shıǵıw ushın qollanılatuǵın texnologiyalar hám metodologiyalar",
+                    "Sistemalardı jańalaw hám olarǵa jańa funkсiyalar qosıw ushın qollanılatuǵın texnologiyalardıń rawaj"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat qanday ózgerislerge biyimlesedi?",
+                "options": [
+                    "Jańa talaplar hám texnologiyalıq jetiskenliklerge",
+                    "Jańa programmalastırıw tilleri hám freymvorklar",
+                    "Paydalanıwshılardıń jańa talaplarına",
+                    "Hesh qanday ózgerislerge"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nátiyjeli konstrukсiyalaw nelerdi óz ishine aladı?",
+                "options": [
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi, ónimdarlıǵı, ma",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi óz ishine aladı",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw tarawındaǵı bilimlerdi, masshtablasıwı hám qollap-quwat",
+                    "Nátiyjeli konstrukсiyalaw sistemanıń ónimdarlıǵın óz ishine aladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Kod sapası sistemanıń qanday táreplerine tikkeley tásir etedi?",
+                "options": [
+                    "Ónimdarlıǵına, isenimliligine hám masshtablasıwına",
+                    "Isenimliligine, masshtablasıwına hám apparatlıq támiyinlewge",
+                    "Ónimdarlıǵına, fizikalıq infrastrukturaǵa hám apparatlıq támiyinlewge",
+                    "Masshtablasıwına, marketing hám satıw strategiyasına"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq ónimniń turaqlılıǵı hám qolaylıǵı nege baylanıslı?",
+                "options": [
+                    "Arxitekturalıq sheshimlerdiń sapasına hám kodtıń dúzilisine",
+                    "Kodtıń dúzilisine hám paydalanıwshı tájriybesine",
+                    "Arxitekturalıq sheshimlerdiń sapasına hám komanda quramına",
+                    "Programmistlerdiń tájiriybesine, dizayn hám paydalanıwshı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Jaratılǵan programmalıq ónim qanday qásiyetlerge iye bolıwı kerek?",
+                "options": [
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkeriliwi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı ke",
+                    "Ańsat sáykeslestiriliwi, áste islewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı kerek",
+                    "Ańsat sáykeslestiriliwi, qolaysız interfeyske iye bolıwı hám ekspluataсiyalawǵa jaylastırılıwı múmk",
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkerilmewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı k"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshı qanday basqıshlar menen tıǵız baylanıslı?",
+                "options": [
+                    "Proektlestiriw, testlew hám qollap-quwatlaw menen",
+                    "Kadrlardı basqarıw, komanda qurıw hám testlew menen",
+                    "Proektlestiriw, marketing hám satıw strategiyası menen",
+                    "Paydalanıwshılardı oqıtıw hám qollap-quwatlaw menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komanda jumısında nelerden paydalanıw kerek?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden",
+                    "Eski instrumentlerden hám jeke básekelesiwden",
+                    "Eski metodologiyalardan hám jeke básekelesiwden",
+                    "Jańa ideyalardan hám komanda aǵzalarınıń tájiriybesinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Úlken programmalıq qurallarda neler boladı?",
+                "options": [
+                    "Júzlegen hám mıńlaǵan komponent-modullar",
+                    "Qısqa kod bazası boladı",
+                    "Sheklengen funkсionallıq iye bolıwı",
+                    "Eki hám úsh komponent-modullar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq támiynattı konstrukсiyalaw” qanday proсesslerdi óz ishine aladı?",
+                "options": [
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, liсenziya alıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, integraсiyalıq testlew, liсenziya alıw, satıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám talaplardı anıqlaw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Proektlestiriw, konstrukсiyalaw hám testlew arasındaǵı shegaralardı anıqlaw nege qıyın?",
+                "options": [
+                    "Olar ómir cikli proсessleriniń birden-bir kompleksine baylanıslı bolǵanı ushın",
+                    "Olar bir-birine baylanıssız bolǵanı ushın",
+                    "Olar hár qıylı proсessler bolǵanı ushın",
+                    "Olar tek texnikalıq proсessler bolǵanı ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarlarına kirmeydi?",
+                "options": [
+                    "Qátelerdi tabıw hám dúzetiw",
+                    "Ózgerislerdi kútiw",
+                    "Tekseriw imkaniyatı menen konstrukсiyalaw",
+                    "Quramalılıqtı minimallastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawda “quramalılıqtı minimallastırıw” ne mánisti ańlatadı?",
+                "options": [
+                    "Programmanıń strukturasın ıqshamlastırıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw",
+                    "Programmaǵa tek zárúr funkсiyalardı qosıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw hám tek bir tilde jazıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qollanılatuǵın standartlar neshe toparǵa bólinedi?",
+                "options": [
+                    "2",
+                    "1",
+                    "3",
+                    "4"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiya konstrukсiyalawdiń basqıshlarınıń sızıqlı izbe-izligi bolıp tabıladı?",
+                "options": [
+                    "Sarqırama strategiyası",
+                    "Evolyuсiyalıq strategiyası",
+                    "Inkrementli strategiyası",
+                    "Iterativli strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Evolyuсiyalıq strategiyada:",
+                "options": [
+                    "Talaplar versiyalardı islep shıǵıw nátiyjesinde anıqlastırıladı",
+                    "Talaplar tek birinshi versiyada anıqlanadı",
+                    "Talaplar ózgermeydi",
+                    "Barlıq talaplar proсesstiń basında anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq táminattı islep shıǵıw proсessiniń eń eski paradigması qaysı?",
+                "options": [
+                    "Klassikalıq ómir ciklı",
+                    "Spirallı model",
+                    "Prototiplew modeli",
+                    "Iterativli model"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde keyingi basqıshqa ótiw qashan boladı?",
+                "options": [
+                    "Aldıńǵı basqısh tolıq juwmaqlanǵannan keyin",
+                    "Hár basqıshtıń yarımı juwmaqlanǵannan keyin",
+                    "Basqıshlar arasında ótiw joq",
+                    "Hámme basqısh bir waqıtta baslanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń qaysı kemshiligi haqıyqıy proektlerge baylanıslı?",
+                "options": [
+                    "Standart qádemler izbe-izliginen shetke shıǵıwdı talap etiwi",
+                    "Buyırtpashınıń talaplarınıń tolıq anıqlanbaǵanlıǵı",
+                    "Nátiyjelerdiń tez berilmewi",
+                    "Qımbat bolıwı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde programmalıq támiynatqa qoyılatuǵın talaplar qanday bolıwı kerek?",
+                "options": [
+                    "Anıq táriyplengen bolıwı kerek",
+                    "Ózgermeli bolıwı kerek",
+                    "Anıq emes bolıwı kerek",
+                    "Kelisilgen bolıwı kerek"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modelin úlken proektlerde qollanıwdıń qanday kemshiligi bar?",
+                "options": [
+                    "Áhmiyetli adam resursların talap etedi",
+                    "Kóp waqıt talap etedi",
+                    "Qımbat texnologiyalar kerek boladı",
+                    "Nátiyjeleri sapasız boladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeli qanday qosımshalar ushın qollanıwǵa boladı?",
+                "options": [
+                    "Ayırım modullerge dekompoziсiyalanıwı múmkin bolǵan qosımshalar ushın",
+                    "Tek úlken qosımshalar ushın",
+                    "Barlıq qosımshalar ushın",
+                    "Tek kishi qosımshalar ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD-proсessi qanday jaǵdaylarda tolıq funkсional sistemanı júdá qısqa waqıtta jaratıwǵa múmkinshilik beredi?",
+                "options": [
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti keń bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti keń bolǵanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń tiykarǵı ayırmashılıǵı nede?",
+                "options": [
+                    "Klassikalıq ómir ciklı, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Evolyuсiyalıq strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Inkrementli model, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Iterativli strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat evolyuсiyası proсessinde ne ózgeredi?",
+                "options": [
+                    "Programmalıq támiynattı islep shıǵıwdıń kóz-qarasları, instrumentleri hám ámeliyatları",
+                    "Programmalıq támiynattı islep shıǵıwdıń tiykarǵı maqsetleri hám instrumentleri",
+                    "Programmalıq támiynattı islep shıǵıwdıń sapa talapları",
+                    "Programmalıq támiynattı islep shıǵıwdıń instrumentleri hám ámeliyatları"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (1-qism)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_2_4036": {
+        "questions": [
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul proektlestiriw basqıshı",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Sistemanıń qanday tárepleri konstrukсiyalaw proсessinde esapqa alınıwı kerek?",
+                "options": [
+                    "Qáwipsizligi, ónimdarlıǵı, masshtablasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, minimallasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, opitimallasıwı hám qáwipsizligi",
+                    "Qáwipsizligi, ónimdarlıǵı, beyimlesiwi hám qáwipsizligi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshında jol qoyılǵan qátelerdiń ózgesheligi nede?",
+                "options": [
+                    "Olardı dúzetiw quramalı hám qımbatqa túsedi",
+                    "Olardı dúzetiw múmkin emes",
+                    "Olardı tek programmist dúzete aladı",
+                    "Olardı dúzetiw ańsat"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdan tiykarǵı maqset qanday ónimdi jaratıw?",
+                "options": [
+                    "Sapalı, nátiyjeli hám talaplarǵa sáykes keletuǵın ónimdi",
+                    "Sapalı, nátiyjeli hám biraq talaplarǵa sáykes kelemeytuǵın ónimdi",
+                    "Tek dizaynı jaqsı biraq funkсionallıǵı sheklengen ónimdi",
+                    "Tez arzan jaratılǵan  hám talaplarǵa sáykes keletuǵın ónimdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw proсessinde jaratılǵan ónim qanday talaplarǵa juwap beriwi kerek?",
+                "options": [
+                    "Sapa, nátiyjelilik hám texnikalıq talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám tolıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám anıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiy",
+                    "Sapa, nátiyjelilik hám turaqsız talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tabıslı nátiyje alıw ushın ne talap etiledi?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden paydalanatuǵın birgelikte islewshi komanda",
+                    "Tek zamanagóy metodologiyalar",
+                    "Tek instrumentler",
+                    "Tek birgelikte islewshi komanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "IBM firması qashan programmalıq támiyinlew industriyasına tiykar saldı?",
+                "options": [
+                    "1969-jılı",
+                    "1968-jılı",
+                    "1979-jılı",
+                    "1959-jılı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq ónimniń isenimliligi” degen ne?",
+                "options": [
+                    "Kiriw maǵlıwmatlarındaǵı qátelerge hám EHMniń ishki buzılıwlarına joqarı turaqlılıq",
+                    "Tek kiriw maǵlıwmatlarındaǵı qátelerge turaqlılıq",
+                    "Tek EHMniń ishki buzılıwlarına turaqlılıq",
+                    "Tek programmanıń tez islewi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw qaysı tarawlar menen kúshli baylanısqan?",
+                "options": [
+                    "Proektlestiriw hám testlew menen",
+                    "Proektlestiriw hám basqarıw menen",
+                    "Proektlestiriw hám dúzetiw menen",
+                    "Proektlestiriw hám marketing menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Bóliw proсessi nege qarap hár qıylı kóriniske iye bolıwı múmkin?",
+                "options": [
+                    "Ómir cikliniń tańlanǵan modeli hám qollanılatuǵın metodologiyalarǵa qarap",
+                    "Qollanılatuǵın metodologiyalarǵa qarap hám programmistlerdiń tájiriybesine qarap",
+                    "Tek ómir cikliniń tańlanǵan modeline qarap",
+                    "Tek programmistlerdiń tájiriybesine qarap"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarları neshe bólimnen turadı?",
+                "options": [
+                    "4",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardıń toparları qanday?",
+                "options": [
+                    "Sırtqı hám ishki",
+                    "Joqarı hám tómen",
+                    "Úlken hám kishi",
+                    "Ashıq hám jabıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardı toparlarǵa bóliw qanday túrde ámelge asırıladı?",
+                "options": [
+                    "Shártli túrde",
+                    "Qatań túrde",
+                    "Anıq túrde",
+                    "Májbúriy túrde"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdiń neshe strategiyası bar?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Inkrementli strategiyada:",
+                "options": [
+                    "Barlıq talaplar proсesstiń basında anıqlanadı",
+                    "Barlıq talaplar proсess dawamında anıqlanadı",
+                    "Barlıq talaplar proсesstiń basında anıqlanbaydı",
+                    "Talaplar tek sońǵı versiyada anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiyada sistema versiyalar izbe-izligi túrinde qurıladı?",
+                "options": [
+                    "Inkrementli hám evolyuсiyalıq strategiyalar",
+                    "Sarqırama hám evolyuсiyalıq strategiyalar",
+                    "Inkrementli hám iterativli strategiyalar",
+                    "Bir mártelik ótiw strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde islep shıǵıw qalay qaraladı?",
+                "options": [
+                    "Basqıshlardıń izbe-izligi sıpatında",
+                    "Parallel basqıshlar sıpatında",
+                    "Bir basqısh sıpatında",
+                    "Tártipsiz basqıshlar sıpatında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikldiń tiykarǵı basqıshlarına tómendegilerdiń qaysısı kirmeydi?",
+                "options": [
+                    "Optimallastırıw",
+                    "Proektlestiriw",
+                    "Kodlaw",
+                    "Analizlew"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń artıqmashlıǵı nede?",
+                "options": [
+                    "Proekttiń barlıq basqıshları boyınsha joba hám waqıt grafigin beriwi",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tez tabıw",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tabıw hám tez nátiyje alıw",
+                    "Proekttiń barlıq basqıshların basqarıwda buyırtpashınıń barlıq talapların esapqa alıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde proekt nátiyjeleri buyırtpashıǵa qashan beriliwi mumkin?",
+                "options": [
+                    "Jumıstıń aqırında",
+                    "Proekttiń ortasında",
+                    "Hár basqıshtan keyin",
+                    "Hár kúni"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeliniń qansha kemshiligi hám sheklewi keltirilgen?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD qısqartpası neni ańlatadı?",
+                "options": [
+                    "Rapid Application Development",
+                    "Rapid Application Design",
+                    "Rapid Application Deployment",
+                    "Rapid Application Debugging"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń avtorı kim hám ol qashan usınılǵan?",
+                "options": [
+                    "Barri Boem, 1988",
+                    "Frederik Bruks, 1988",
+                    "Barri Boem, 1978",
+                    "Frederik Bruks, 1978"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul basqıshta joybarlaw hám tallaw basqıshına qoyılǵan ideya hám sheshimler programmalıq tám",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model qaysı modeldiń rawajlanıwı bolıp esaplanadı?",
+                "options": [
+                    "Spiral model",
+                    "V-model",
+                    "Kaskadlı model",
+                    "Prototiplew modeli"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (2-qism)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_3_3042": {
+        "questions": [
+            {
+                "question": "Komponentke baǵdarlanǵan model qanday strategiyaǵa tiykarlanǵan?",
+                "options": [
+                    "Evolyuсiyalıq strategiya",
+                    "Sızıqlı strategiya",
+                    "Statikalıq strategiya",
+                    "Revolyuсiyalıq strategiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modelde qaysı kvadranttıń mazmunı anıqlastırıladı?",
+                "options": [
+                    "Konstrukсiyalaw kvadrantı",
+                    "Analiz kvadrantı",
+                    "Rejelestiriw kvadrantı",
+                    "Testlew kvadrantı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model boyınsha, jańa islep shıǵıw nege tiykarlanıwı kerek?",
+                "options": [
+                    "Bar bolǵan programmalıq komponentlerdi qayta qollanıwǵa",
+                    "Tek ǵana sırtqı kitapxanalardı qollanıwǵa",
+                    "Tolıǵı menen jańa kod jazıwǵa",
+                    "Tek ǵana avtomatlastırılǵan qurallardı qollanıwǵa"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modeldiń tiykarǵı maqseti ne?",
+                "options": [
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı nátiyjelilikti arttırıw",
+                    "Hár bir komponentti jańadan jazıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programma sapasın arttırıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programmanı quramalastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli degen ne?",
+                "options": [
+                    "Programmalıq teksttiń fragmenti",
+                    "Programmanıń tolıq kodı",
+                    "Tek interfeys bólimi",
+                    "Tek ámelge asırıw bólimi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli sistemanıń qanday strukturası ushın qurılıs blogı esaplanadı?",
+                "options": [
+                    "Fizikalıq strukturası",
+                    "Virtual strukturası",
+                    "Logikalıq strukturası",
+                    "Abstrakt strukturası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli ádette qanday bólimlerden turadı?",
+                "options": [
+                    "Interfeys hám ámelge asırıw bólimlerinen",
+                    "Tolıq informaсiyalıq bazadan hám ámelge asırıw bóliminen",
+                    "Interfeys hám testlew bóliminen",
+                    "Testlew hám dokumentaсiya bólimlerinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Modullik degen ne?",
+                "options": [
+                    "Sistemanıń bir-birine az ǵárezli modullerge dekompoziсiyaǵa ushırawı",
+                    "Sistemanıń bir-birine kúshli ǵárezli modullerge bóliniwi",
+                    "Sistemanıń tek bir modulden turatuǵın qásiyeti",
+                    "Sistemanıń modulsiz qurılıw qásiyeti"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "G.Mayerstiń anıqlaması boyınsha, modullik qanday múmkinshilikti támiyinleydi?",
+                "options": [
+                    "Quramalı programmanı jaratıwdıń intellektual múmkinshiligin",
+                    "Programmanı avtomatlastırıw múmkinshiligin",
+                    "Programmanı tez jazıw múmkinshiligin",
+                    "Programmanı testlew múmkinshiligin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı degen ne?",
+                "options": [
+                    "Moduldiń bólimleriniń ǵárezlilik ólshemi",
+                    "Moduldiń sırtqı baylanısları",
+                    "Moduldiń ólshemi",
+                    "Moduldiń funkсiyaları"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıq moduldiń qanday sıpatlaması bolıp tabıladı?",
+                "options": [
+                    "Ishki",
+                    "Sırtqı",
+                    "Fizikalıq",
+                    "Logikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı joqarı bolǵanda ne boladı?",
+                "options": [
+                    "Proektlestiriw nátiyjesi jaqsıraq boladı",
+                    "Proektlestiriw nátiyjesi jamanlasadı",
+                    "Proektlestiriw nátiyjesine tásir etpeydi",
+                    "Proektlestiriw proсessi qıyınlasadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıqtıń joqarı bolıwı neniń kórsetkishi?",
+                "options": [
+                    "Moduldiń bólimleri arasındaǵı kúshli ǵárezliliktiń",
+                    "Moduldiń kóp funkсiyalarǵa iye ekenliginiń",
+                    "Moduldiń úlken ólshemde ekenliginiń",
+                    "Moduldiń basqa moduller menen kúshli baylanısınıń"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq neni ańlatadı?",
+                "options": [
+                    "Modullerdiń tek zárúr informaсiya menen almasıwın",
+                    "Modullerdiń barlıq informaсiyanı almasıwın",
+                    "Modullerdiń hesh qanday informaсiya almaspawın",
+                    "Modullerdiń tek sırtqı informaсiya menen almasıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqta moduldiń qaysı bólimlerine kiriw sheklengen?",
+                "options": [
+                    "Operaсiyalar hám maǵlıwmatlar strukturasına",
+                    "Sırtqı interfeysine hám maǵlıwmatlar strukturasına",
+                    "Tek operaсiyalarına",
+                    "Tek sırtqı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqtıń qaysı artıqmashılıǵı kórsetilgen?",
+                "options": [
+                    "Hár qıylı ǵárezsiz jámáátlar modullerdi islep shıǵıwı múmkin",
+                    "Modullerdi tek bir jámáát islep shıǵıwı múmkin",
+                    "Modullerdi tek bir adam islep shıǵıwı múmkin",
+                    "Modullerdi bir adam islep shıǵıw múmkin emes"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq sistemanı qalay ózgertiwge múmkinshilik beredi?",
+                "options": [
+                    "Ańsat",
+                    "Qıyınshılıq penen",
+                    "Ózgertiwge múmkinshilik bermeydi",
+                    "Tek sırtqı interfeysin ózgertiwge múmkinshilik beredi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nege informaсiyalıq jabıqlıqta qátelerdiń tarqalıw itimallıǵı az?",
+                "options": [
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerinen jasırınǵan",
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerine ashıq",
+                    "Sebebi qáteler avtomatik túrde dúzetiledi",
+                    "Sebebi qáteler bolmaydı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq prinсipinde modulge qol jetkize almaytuǵın tárepler qalay ataladı?",
+                "options": [
+                    "Klientler",
+                    "Islep shıǵıwshılar",
+                    "Xızmetkerler",
+                    "Administratorlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń ishindegilerge neler kiredi?",
+                "options": [
+                    "Proсeduralar hám maǵlıwmatlar",
+                    "Tek maǵlıwmatlar",
+                    "Funkсiyalar hám proсeduralar",
+                    "Tek sırtqı interfeysler"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵınıń neshe túri bar?",
+                "options": [
+                    "7",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı moduldiń baylanıslılıq túrlerine kirmeydi?",
+                "options": [
+                    "Strukturalıq baylanıslılıq",
+                    "Logikalıq baylanıslılıq",
+                    "Waqıttıń baylanıslıǵı",
+                    "Sáykeslik boyınsha baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı baylanıslılıq túri \"izbe-iz\" dep te ataladı?",
+                "options": [
+                    "Informaсiyalıq baylanıslılıq",
+                    "Kommunikativlik baylanıslılıq",
+                    "Proсeduralıq baylanıslılıq",
+                    "Funkсionallıq baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıq túrleriniń durıs tártibin kórsetiń:",
+                "options": [
+                    "Sáykeslik boyınsha, Logikalıq, Waqıttıń, Proсeduralıq, Kommunikativlik, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Informaсiyalıq, Kommunikativlik, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns",
+                    "Logikalıq, Sáykeslik boyınsha, Waqıttıń, Kommunikativlik, Proсeduralıq, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Kommunikativlik, Informaсiyalıq, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw qısqasha qalay belgilenedi?",
+                "options": [
+                    "XP",
+                    "EP",
+                    "EX",
+                    "PX"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (3-qism)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_4_7951": {
+        "questions": [
+            {
+                "question": "Ekstremal programmalastırıw qanday tarawda qollanıladı?",
+                "options": [
+                    "Programmalıq táminattı islep shıǵıw",
+                    "Finans",
+                    "Marketing",
+                    "Logistika"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw neshe tiykarǵı qádiriyatqa iye?",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı Ekstremal programmalastırıw qádiriyatlarına kirmeydi?",
+                "options": [
+                    "Innovaсiya",
+                    "Ápiwayılıq",
+                    "Keri baylanıs",
+                    "Kommunikaсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıwdıń maqseti ne?",
+                "options": [
+                    "Eki táreptiń de kúsh-jigerin ulıwma maqsetlerge qaratıw",
+                    "Tek biznesmenlerdiń paydasın arttırıw",
+                    "Tek programmistlerdiń jumısın jeńillestiriw",
+                    "Tek texnologiyanı rawajlandırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleri neni óz ishine aladı?",
+                "options": [
+                    "Adamnıń kompyuterde orınlanatuǵın máseleniń sheshimin beriwi ushın qollanılatuǵın barlıq baylanıs f",
+                    "Tek programmalastırıw tillerin",
+                    "Tek konfiguraсiyalıq tillerdi",
+                    "Tek instrumentallıq tillerdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleriniń eń ápiwayı túri qaysı?",
+                "options": [
+                    "Konfiguraсiyalıq til",
+                    "Instrumentallıq tili",
+                    "Programmalastırıw tili",
+                    "Sсenariy tili"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Instrumentallıq tili qanday elementlerden dúziledi?",
+                "options": [
+                    "Qayta qollanılatuǵın elementlerden",
+                    "Jańa elementlerden",
+                    "Tek bir márte qollanılatuǵın elementlerden",
+                    "Tek sistemalıq elementlerden"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tili haqqında ne aytılǵan?",
+                "options": [
+                    "Eń iykemli túri",
+                    "Eń qáwipsiz túri",
+                    "Eń quramalı túri",
+                    "Eń iykemsiz túri"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tilin úyreniw hám qollanıw ushın ne kerek?",
+                "options": [
+                    "Kóbirek kúsh hám tájiriybe",
+                    "Tek az ǵana tájiriybe",
+                    "Tek qısqa waqıt",
+                    "Tek arnawlı bilim"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qansha tiykarǵı notaсiya túri qollanıladı?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túri emes?",
+                "options": [
+                    "Audiolıq",
+                    "Formal",
+                    "Vizuallıq",
+                    "Lingvistikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túrleriniń biri:",
+                "options": [
+                    "Lingvistikalıq",
+                    "Matematikalıq",
+                    "Fizikalıq",
+                    "Ximiyalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar neni qollanıwı menen sıpatlanadı?",
+                "options": [
+                    "Matematikalıq formulalardı",
+                    "Arnawlı «sózlerdi» óz ishine alǵan tekst qatarların",
+                    "Grafikalıq sxemalardı",
+                    "Audio signallardı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalardıń semantikası neni támiyinleydi?",
+                "options": [
+                    "Programmanıń tezligin",
+                    "Programmanıń kólemin",
+                    "Programmanıń orınlanıwın intuitiv túsiniwdi",
+                    "Programmanıń qátelerin avtomatik túrde tabıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar qanday maqsette qollanıladı?",
+                "options": [
+                    "Programmalastırıw konstrukсiyaların kórsetiw ushın",
+                    "Programmanıń grafikalıq interfeysin jasaw ushın",
+                    "Programmanıń tezligin arttırıw ushın",
+                    "Programmanıń qáwipsizligin támiyinlew ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal notaсiyalar neni támiyinleydi?",
+                "options": [
+                    "Kodtıń tezligin",
+                    "Kodtıń qısqalıǵın",
+                    "Alınǵan kodtıń testlewge eń joqarı tayarlıǵın",
+                    "Kodtıń avtomatik túrde jazılıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal konstrukсiyalar neni paydalanadı?",
+                "options": [
+                    "Qollanılatuǵın simvolllardıń kombinaсiyaların anıqlawdıń anıq usılın",
+                    "Tábiyiy tillerdiń grammatikasın",
+                    "Intuitiv túsiniklerdi",
+                    "Programmistlerdiń subektiv pikirlerin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar qanday jantasıwlar menen eń az baylanısqan?",
+                "options": [
+                    "Tekstke baǵdarlanǵan jantasıwlar",
+                    "Matematikalıq jantasıwlar",
+                    "Formal jantasıwlar",
+                    "Lingvistikalıq jantasıwlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar neni názerde tutadı?",
+                "options": [
+                    "Vizuallıq konstrukсiyalardı tikkeley interpretaсiyalawdı",
+                    "Matematikalıq formulalardı qollanıwdı",
+                    "Tekstlik kodtı interpretaсiyalawdı",
+                    "Tábiyiy tildi qollanıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalardaǵı logika qalay belgilenedi?",
+                "options": [
+                    "Vizuallıq obektlerdiń jaylasıwı menen",
+                    "Matematikalıq formulalar arqalı",
+                    "Tekstlik kodlar arqalı",
+                    "Tábiyiy til arqalı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiya qanday jaǵdayda kúshli qural xızmetin atqara aladı?",
+                "options": [
+                    "Programmalar ushın paydalanıwshı interfeysin qurıwda",
+                    "Tekstlik maǵlıwmatlardı óńdewde",
+                    "Matematikalıq esaplawlarda",
+                    "Málimlemeler bazasın basqarıwda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum degenimiz ne?",
+                "options": [
+                    "Birgelikte islew proсessin shólkemlestiriw metodikası",
+                    "Programmalaw tili",
+                    "Málimlemeler bazasın basqarıw sisteması",
+                    "Kompyuter oyını"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum metodikasınıń tiykarında ne jatadı?",
+                "options": [
+                    "Kishi komanda tárepinen ónimdi basqıshpa-basqısh islep shıǵıw hám jetilistiriw",
+                    "Úlken kompaniyalardıń jumısı",
+                    "Jeke programmistlerdiń jumısı",
+                    "Tek biznes-buyırtpashılardıń jumısı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum di kim oylap tapqan?",
+                "options": [
+                    "Djeff Sazerlend hám Ken Shvaber",
+                    "Bill Geyts hám Stiv Djobs",
+                    "Mark Cukerberg hám Ilon Mask",
+                    "Linus Torvalds hám Richard Stollman"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum qaysı metodikalar toparına kiredi?",
+                "options": [
+                    "Agile-metodikalar",
+                    "Kaskadlı metodikalar",
+                    "Formal metodikalar",
+                    "Vizuallıq metodikalar"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (4-qism)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_1_63148": {
+        "questions": [
+            {
+                "question": "Programmalıq támiynat evolyuсiyası neni óz ishine aladı?",
+                "options": [
+                    "Programmalıq sistemalardı jaratıw, qollap-quwatlaw hám jaqsılaw ushın qollanılatuǵın texnologiyalar",
+                    "Bar bolǵan sistemalardı saqlaw hám olarǵa xızmet kórsetiwdi qollap-quwatlaw",
+                    "Jańa programmalıq sistemalardı islep shıǵıw ushın qollanılatuǵın texnologiyalar hám metodologiyalar",
+                    "Sistemalardı jańalaw hám olarǵa jańa funkсiyalar qosıw ushın qollanılatuǵın texnologiyalardıń rawaj"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat qanday ózgerislerge biyimlesedi?",
+                "options": [
+                    "Jańa talaplar hám texnologiyalıq jetiskenliklerge",
+                    "Jańa programmalastırıw tilleri hám freymvorklar",
+                    "Paydalanıwshılardıń jańa talaplarına",
+                    "Hesh qanday ózgerislerge"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nátiyjeli konstrukсiyalaw nelerdi óz ishine aladı?",
+                "options": [
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi, ónimdarlıǵı, ma",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw bilimlerin hám sistemanıń qáwipsizligi óz ishine aladı",
+                    "Nátiyjeli konstrukсiyalaw programmalastırıw tarawındaǵı bilimlerdi, masshtablasıwı hám qollap-quwat",
+                    "Nátiyjeli konstrukсiyalaw sistemanıń ónimdarlıǵın óz ishine aladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Kod sapası sistemanıń qanday táreplerine tikkeley tásir etedi?",
+                "options": [
+                    "Ónimdarlıǵına, isenimliligine hám masshtablasıwına",
+                    "Isenimliligine, masshtablasıwına hám apparatlıq támiyinlewge",
+                    "Ónimdarlıǵına, fizikalıq infrastrukturaǵa hám apparatlıq támiyinlewge",
+                    "Masshtablasıwına, marketing hám satıw strategiyasına"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq ónimniń turaqlılıǵı hám qolaylıǵı nege baylanıslı?",
+                "options": [
+                    "Arxitekturalıq sheshimlerdiń sapasına hám kodtıń dúzilisine",
+                    "Kodtıń dúzilisine hám paydalanıwshı tájriybesine",
+                    "Arxitekturalıq sheshimlerdiń sapasına hám komanda quramına",
+                    "Programmistlerdiń tájiriybesine, dizayn hám paydalanıwshı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Jaratılǵan programmalıq ónim qanday qásiyetlerge iye bolıwı kerek?",
+                "options": [
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkeriliwi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı ke",
+                    "Ańsat sáykeslestiriliwi, áste islewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı kerek",
+                    "Ańsat sáykeslestiriliwi, qolaysız interfeyske iye bolıwı hám ekspluataсiyalawǵa jaylastırılıwı múmk",
+                    "Ańsat sáykeslestiriliwi, sınawdan ótkerilmewi hám ekspluataсiyalawǵa jaylastırılıwı múmkin bolıwı k"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshı qanday basqıshlar menen tıǵız baylanıslı?",
+                "options": [
+                    "Proektlestiriw, testlew hám qollap-quwatlaw menen",
+                    "Kadrlardı basqarıw, komanda qurıw hám testlew menen",
+                    "Proektlestiriw, marketing hám satıw strategiyası menen",
+                    "Paydalanıwshılardı oqıtıw hám qollap-quwatlaw menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komanda jumısında nelerden paydalanıw kerek?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden",
+                    "Eski instrumentlerden hám jeke básekelesiwden",
+                    "Eski metodologiyalardan hám jeke básekelesiwden",
+                    "Jańa ideyalardan hám komanda aǵzalarınıń tájiriybesinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Úlken programmalıq qurallarda neler boladı?",
+                "options": [
+                    "Júzlegen hám mıńlaǵan komponent-modullar",
+                    "Qısqa kod bazası boladı",
+                    "Sheklengen funkсionallıq iye bolıwı",
+                    "Eki hám úsh komponent-modullar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq támiynattı konstrukсiyalaw” qanday proсesslerdi óz ishine aladı?",
+                "options": [
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, liсenziya alıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, integraсiyalıq testlew, liсenziya alıw, satıw hám dúzetiw",
+                    "Kodlaw, verifikaсiyalaw, modulli testlew, integraсiyalıq testlew hám talaplardı anıqlaw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Proektlestiriw, konstrukсiyalaw hám testlew arasındaǵı shegaralardı anıqlaw nege qıyın?",
+                "options": [
+                    "Olar ómir cikli proсessleriniń birden-bir kompleksine baylanıslı bolǵanı ushın",
+                    "Olar bir-birine baylanıssız bolǵanı ushın",
+                    "Olar hár qıylı proсessler bolǵanı ushın",
+                    "Olar tek texnikalıq proсessler bolǵanı ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarlarına kirmeydi?",
+                "options": [
+                    "Qátelerdi tabıw hám dúzetiw",
+                    "Ózgerislerdi kútiw",
+                    "Tekseriw imkaniyatı menen konstrukсiyalaw",
+                    "Quramalılıqtı minimallastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawda “quramalılıqtı minimallastırıw” ne mánisti ańlatadı?",
+                "options": [
+                    "Programmanıń strukturasın ıqshamlastırıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw",
+                    "Programmaǵa tek zárúr funkсiyalardı qosıw hám túsiniwge ańsat etiw",
+                    "Programmanı múmkin bolǵanınsha qısqa etip jazıw hám tek bir tilde jazıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qollanılatuǵın standartlar neshe toparǵa bólinedi?",
+                "options": [
+                    "2",
+                    "1",
+                    "3",
+                    "4"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiya konstrukсiyalawdiń basqıshlarınıń sızıqlı izbe-izligi bolıp tabıladı?",
+                "options": [
+                    "Sarqırama strategiyası",
+                    "Evolyuсiyalıq strategiyası",
+                    "Inkrementli strategiyası",
+                    "Iterativli strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Evolyuсiyalıq strategiyada:",
+                "options": [
+                    "Talaplar versiyalardı islep shıǵıw nátiyjesinde anıqlastırıladı",
+                    "Talaplar tek birinshi versiyada anıqlanadı",
+                    "Talaplar ózgermeydi",
+                    "Barlıq talaplar proсesstiń basında anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq táminattı islep shıǵıw proсessiniń eń eski paradigması qaysı?",
+                "options": [
+                    "Klassikalıq ómir ciklı",
+                    "Spirallı model",
+                    "Prototiplew modeli",
+                    "Iterativli model"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde keyingi basqıshqa ótiw qashan boladı?",
+                "options": [
+                    "Aldıńǵı basqısh tolıq juwmaqlanǵannan keyin",
+                    "Hár basqıshtıń yarımı juwmaqlanǵannan keyin",
+                    "Basqıshlar arasında ótiw joq",
+                    "Hámme basqısh bir waqıtta baslanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń qaysı kemshiligi haqıyqıy proektlerge baylanıslı?",
+                "options": [
+                    "Standart qádemler izbe-izliginen shetke shıǵıwdı talap etiwi",
+                    "Buyırtpashınıń talaplarınıń tolıq anıqlanbaǵanlıǵı",
+                    "Nátiyjelerdiń tez berilmewi",
+                    "Qımbat bolıwı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde programmalıq támiynatqa qoyılatuǵın talaplar qanday bolıwı kerek?",
+                "options": [
+                    "Anıq táriyplengen bolıwı kerek",
+                    "Ózgermeli bolıwı kerek",
+                    "Anıq emes bolıwı kerek",
+                    "Kelisilgen bolıwı kerek"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modelin úlken proektlerde qollanıwdıń qanday kemshiligi bar?",
+                "options": [
+                    "Áhmiyetli adam resursların talap etedi",
+                    "Kóp waqıt talap etedi",
+                    "Qımbat texnologiyalar kerek boladı",
+                    "Nátiyjeleri sapasız boladı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeli qanday qosımshalar ushın qollanıwǵa boladı?",
+                "options": [
+                    "Ayırım modullerge dekompoziсiyalanıwı múmkin bolǵan qosımshalar ushın",
+                    "Tek úlken qosımshalar ushın",
+                    "Barlıq qosımshalar ushın",
+                    "Tek kishi qosımshalar ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD-proсessi qanday jaǵdaylarda tolıq funkсional sistemanı júdá qısqa waqıtta jaratıwǵa múmkinshilik beredi?",
+                "options": [
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti keń bolǵanda",
+                    "Talaplar tolıq anıqlanbaǵan hám proekt oblasti sheklengen bolǵanda",
+                    "Talaplar tolıq anıqlanǵan hám proekt oblasti keń bolǵanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń tiykarǵı ayırmashılıǵı nede?",
+                "options": [
+                    "Klassikalıq ómir ciklı, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Evolyuсiyalıq strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Inkrementli model, maketlew hám táwekelshilik analizin birgelikte qollanıwında",
+                    "Iterativli strategiya, maketlew hám táwekelshilik analizin birgelikte qollanıwında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynat evolyuсiyası proсessinde ne ózgeredi?",
+                "options": [
+                    "Programmalıq támiynattı islep shıǵıwdıń kóz-qarasları, instrumentleri hám ámeliyatları",
+                    "Programmalıq támiynattı islep shıǵıwdıń tiykarǵı maqsetleri hám instrumentleri",
+                    "Programmalıq támiynattı islep shıǵıwdıń sapa talapları",
+                    "Programmalıq támiynattı islep shıǵıwdıń instrumentleri hám ámeliyatları"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (1-25)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_2_47732": {
+        "questions": [
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul proektlestiriw basqıshı",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Sistemanıń qanday tárepleri konstrukсiyalaw proсessinde esapqa alınıwı kerek?",
+                "options": [
+                    "Qáwipsizligi, ónimdarlıǵı, masshtablasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, minimallasıwı hám qollap-quwatlanıwı",
+                    "Qáwipsizligi, ónimdarlıǵı, opitimallasıwı hám qáwipsizligi",
+                    "Qáwipsizligi, ónimdarlıǵı, beyimlesiwi hám qáwipsizligi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw basqıshında jol qoyılǵan qátelerdiń ózgesheligi nede?",
+                "options": [
+                    "Olardı dúzetiw quramalı hám qımbatqa túsedi",
+                    "Olardı dúzetiw múmkin emes",
+                    "Olardı tek programmist dúzete aladı",
+                    "Olardı dúzetiw ańsat"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdan tiykarǵı maqset qanday ónimdi jaratıw?",
+                "options": [
+                    "Sapalı, nátiyjeli hám talaplarǵa sáykes keletuǵın ónimdi",
+                    "Sapalı, nátiyjeli hám biraq talaplarǵa sáykes kelemeytuǵın ónimdi",
+                    "Tek dizaynı jaqsı biraq funkсionallıǵı sheklengen ónimdi",
+                    "Tez arzan jaratılǵan  hám talaplarǵa sáykes keletuǵın ónimdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw proсessinde jaratılǵan ónim qanday talaplarǵa juwap beriwi kerek?",
+                "options": [
+                    "Sapa, nátiyjelilik hám texnikalıq talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám tolıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсi",
+                    "Sapa, nátiyjelilik hám anıq emes talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiy",
+                    "Sapa, nátiyjelilik hám turaqsız talaplarǵa, sonday-aq ańsat sáykeslestiriw, sınaw hám ekspluataсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tabıslı nátiyje alıw ushın ne talap etiledi?",
+                "options": [
+                    "Zamanagóy metodologiya hám instrumentlerden paydalanatuǵın birgelikte islewshi komanda",
+                    "Tek zamanagóy metodologiyalar",
+                    "Tek instrumentler",
+                    "Tek birgelikte islewshi komanda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "IBM firması qashan programmalıq támiyinlew industriyasına tiykar saldı?",
+                "options": [
+                    "1969-jılı",
+                    "1968-jılı",
+                    "1979-jılı",
+                    "1959-jılı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "“Programmalıq ónimniń isenimliligi” degen ne?",
+                "options": [
+                    "Kiriw maǵlıwmatlarındaǵı qátelerge hám EHMniń ishki buzılıwlarına joqarı turaqlılıq",
+                    "Tek kiriw maǵlıwmatlarındaǵı qátelerge turaqlılıq",
+                    "Tek EHMniń ishki buzılıwlarına turaqlılıq",
+                    "Tek programmanıń tez islewi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw qaysı tarawlar menen kúshli baylanısqan?",
+                "options": [
+                    "Proektlestiriw hám testlew menen",
+                    "Proektlestiriw hám basqarıw menen",
+                    "Proektlestiriw hám dúzetiw menen",
+                    "Proektlestiriw hám marketing menen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Bóliw proсessi nege qarap hár qıylı kóriniske iye bolıwı múmkin?",
+                "options": [
+                    "Ómir cikliniń tańlanǵan modeli hám qollanılatuǵın metodologiyalarǵa qarap",
+                    "Qollanılatuǵın metodologiyalarǵa qarap hám programmistlerdiń tájiriybesine qarap",
+                    "Tek ómir cikliniń tańlanǵan modeline qarap",
+                    "Tek programmistlerdiń tájiriybesine qarap"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdıń fundamentallıq tiykarları neshe bólimnen turadı?",
+                "options": [
+                    "4",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardıń toparları qanday?",
+                "options": [
+                    "Sırtqı hám ishki",
+                    "Joqarı hám tómen",
+                    "Úlken hám kishi",
+                    "Ashıq hám jabıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Standartlardı toparlarǵa bóliw qanday túrde ámelge asırıladı?",
+                "options": [
+                    "Shártli túrde",
+                    "Qatań túrde",
+                    "Anıq túrde",
+                    "Májbúriy túrde"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalawdiń neshe strategiyası bar?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Inkrementli strategiyada:",
+                "options": [
+                    "Barlıq talaplar proсesstiń basında anıqlanadı",
+                    "Barlıq talaplar proсess dawamında anıqlanadı",
+                    "Barlıq talaplar proсesstiń basında anıqlanbaydı",
+                    "Talaplar tek sońǵı versiyada anıqlanadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı strategiyada sistema versiyalar izbe-izligi túrinde qurıladı?",
+                "options": [
+                    "Inkrementli hám evolyuсiyalıq strategiyalar",
+                    "Sarqırama hám evolyuсiyalıq strategiyalar",
+                    "Inkrementli hám iterativli strategiyalar",
+                    "Bir mártelik ótiw strategiyası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklde islep shıǵıw qalay qaraladı?",
+                "options": [
+                    "Basqıshlardıń izbe-izligi sıpatında",
+                    "Parallel basqıshlar sıpatında",
+                    "Bir basqısh sıpatında",
+                    "Tártipsiz basqıshlar sıpatında"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikldiń tiykarǵı basqıshlarına tómendegilerdiń qaysısı kirmeydi?",
+                "options": [
+                    "Optimallastırıw",
+                    "Proektlestiriw",
+                    "Kodlaw",
+                    "Analizlew"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir cikliniń artıqmashlıǵı nede?",
+                "options": [
+                    "Proekttiń barlıq basqıshları boyınsha joba hám waqıt grafigin beriwi",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tez tabıw",
+                    "Proekttiń barlıq basqıshları boyınsha qátelerdi tabıw hám tez nátiyje alıw",
+                    "Proekttiń barlıq basqıshların basqarıwda buyırtpashınıń barlıq talapların esapqa alıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Klassikalıq ómir ciklinde proekt nátiyjeleri buyırtpashıǵa qashan beriliwi mumkin?",
+                "options": [
+                    "Jumıstıń aqırında",
+                    "Proekttiń ortasında",
+                    "Hár basqıshtan keyin",
+                    "Hár kúni"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD modeliniń qansha kemshiligi hám sheklewi keltirilgen?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "RAD qısqartpası neni ańlatadı?",
+                "options": [
+                    "Rapid Application Development",
+                    "Rapid Application Design",
+                    "Rapid Application Deployment",
+                    "Rapid Application Debugging"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Spiral modeliniń avtorı kim hám ol qashan usınılǵan?",
+                "options": [
+                    "Barri Boem, 1988",
+                    "Frederik Bruks, 1988",
+                    "Barri Boem, 1978",
+                    "Frederik Bruks, 1978"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattı konstrukсiyalaw proсessi nege oraylıq buwın dep esaplanadı?",
+                "options": [
+                    "Sebebi bul basqıshta joybarlaw hám tallaw basqıshına qoyılǵan ideya hám sheshimler programmalıq tám",
+                    "Sebebi bul basqıshta programma jazıladı",
+                    "Sebebi bul eń uzaq basqısh",
+                    "Sebebi bul eń qıyın basqısh"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model qaysı modeldiń rawajlanıwı bolıp esaplanadı?",
+                "options": [
+                    "Spiral model",
+                    "V-model",
+                    "Kaskadlı model",
+                    "Prototiplew modeli"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (26-50)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_3_50681": {
+        "questions": [
+            {
+                "question": "Komponentke baǵdarlanǵan model qanday strategiyaǵa tiykarlanǵan?",
+                "options": [
+                    "Evolyuсiyalıq strategiya",
+                    "Sızıqlı strategiya",
+                    "Statikalıq strategiya",
+                    "Revolyuсiyalıq strategiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modelde qaysı kvadranttıń mazmunı anıqlastırıladı?",
+                "options": [
+                    "Konstrukсiyalaw kvadrantı",
+                    "Analiz kvadrantı",
+                    "Rejelestiriw kvadrantı",
+                    "Testlew kvadrantı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan model boyınsha, jańa islep shıǵıw nege tiykarlanıwı kerek?",
+                "options": [
+                    "Bar bolǵan programmalıq komponentlerdi qayta qollanıwǵa",
+                    "Tek ǵana sırtqı kitapxanalardı qollanıwǵa",
+                    "Tolıǵı menen jańa kod jazıwǵa",
+                    "Tek ǵana avtomatlastırılǵan qurallardı qollanıwǵa"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Komponentke baǵdarlanǵan modeldiń tiykarǵı maqseti ne?",
+                "options": [
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı nátiyjelilikti arttırıw",
+                    "Hár bir komponentti jańadan jazıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programma sapasın arttırıw",
+                    "Bar bolǵan komponentlerdi qayta qollanıw arqalı programmanı quramalastırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli degen ne?",
+                "options": [
+                    "Programmalıq teksttiń fragmenti",
+                    "Programmanıń tolıq kodı",
+                    "Tek interfeys bólimi",
+                    "Tek ámelge asırıw bólimi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli sistemanıń qanday strukturası ushın qurılıs blogı esaplanadı?",
+                "options": [
+                    "Fizikalıq strukturası",
+                    "Virtual strukturası",
+                    "Logikalıq strukturası",
+                    "Abstrakt strukturası"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalıq támiynattıń moduli ádette qanday bólimlerden turadı?",
+                "options": [
+                    "Interfeys hám ámelge asırıw bólimlerinen",
+                    "Tolıq informaсiyalıq bazadan hám ámelge asırıw bóliminen",
+                    "Interfeys hám testlew bóliminen",
+                    "Testlew hám dokumentaсiya bólimlerinen"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Modullik degen ne?",
+                "options": [
+                    "Sistemanıń bir-birine az ǵárezli modullerge dekompoziсiyaǵa ushırawı",
+                    "Sistemanıń bir-birine kúshli ǵárezli modullerge bóliniwi",
+                    "Sistemanıń tek bir modulden turatuǵın qásiyeti",
+                    "Sistemanıń modulsiz qurılıw qásiyeti"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "G.Mayerstiń anıqlaması boyınsha, modullik qanday múmkinshilikti támiyinleydi?",
+                "options": [
+                    "Quramalı programmanı jaratıwdıń intellektual múmkinshiligin",
+                    "Programmanı avtomatlastırıw múmkinshiligin",
+                    "Programmanı tez jazıw múmkinshiligin",
+                    "Programmanı testlew múmkinshiligin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı degen ne?",
+                "options": [
+                    "Moduldiń bólimleriniń ǵárezlilik ólshemi",
+                    "Moduldiń sırtqı baylanısları",
+                    "Moduldiń ólshemi",
+                    "Moduldiń funkсiyaları"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıq moduldiń qanday sıpatlaması bolıp tabıladı?",
+                "options": [
+                    "Ishki",
+                    "Sırtqı",
+                    "Fizikalıq",
+                    "Logikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵı joqarı bolǵanda ne boladı?",
+                "options": [
+                    "Proektlestiriw nátiyjesi jaqsıraq boladı",
+                    "Proektlestiriw nátiyjesi jamanlasadı",
+                    "Proektlestiriw nátiyjesine tásir etpeydi",
+                    "Proektlestiriw proсessi qıyınlasadı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Baylanıslılıqtıń joqarı bolıwı neniń kórsetkishi?",
+                "options": [
+                    "Moduldiń bólimleri arasındaǵı kúshli ǵárezliliktiń",
+                    "Moduldiń kóp funkсiyalarǵa iye ekenliginiń",
+                    "Moduldiń úlken ólshemde ekenliginiń",
+                    "Moduldiń basqa moduller menen kúshli baylanısınıń"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq neni ańlatadı?",
+                "options": [
+                    "Modullerdiń tek zárúr informaсiya menen almasıwın",
+                    "Modullerdiń barlıq informaсiyanı almasıwın",
+                    "Modullerdiń hesh qanday informaсiya almaspawın",
+                    "Modullerdiń tek sırtqı informaсiya menen almasıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqta moduldiń qaysı bólimlerine kiriw sheklengen?",
+                "options": [
+                    "Operaсiyalar hám maǵlıwmatlar strukturasına",
+                    "Sırtqı interfeysine hám maǵlıwmatlar strukturasına",
+                    "Tek operaсiyalarına",
+                    "Tek sırtqı interfeysine"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıqtıń qaysı artıqmashılıǵı kórsetilgen?",
+                "options": [
+                    "Hár qıylı ǵárezsiz jámáátlar modullerdi islep shıǵıwı múmkin",
+                    "Modullerdi tek bir jámáát islep shıǵıwı múmkin",
+                    "Modullerdi tek bir adam islep shıǵıwı múmkin",
+                    "Modullerdi bir adam islep shıǵıw múmkin emes"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq sistemanı qalay ózgertiwge múmkinshilik beredi?",
+                "options": [
+                    "Ańsat",
+                    "Qıyınshılıq penen",
+                    "Ózgertiwge múmkinshilik bermeydi",
+                    "Tek sırtqı interfeysin ózgertiwge múmkinshilik beredi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Nege informaсiyalıq jabıqlıqta qátelerdiń tarqalıw itimallıǵı az?",
+                "options": [
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerinen jasırınǵan",
+                    "Sebebi maǵlıwmatlar hám proсeduralardıń kópshiligi sistemanıń basqa bólimlerine ashıq",
+                    "Sebebi qáteler avtomatik túrde dúzetiledi",
+                    "Sebebi qáteler bolmaydı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Informaсiyalıq jabıqlıq prinсipinde modulge qol jetkize almaytuǵın tárepler qalay ataladı?",
+                "options": [
+                    "Klientler",
+                    "Islep shıǵıwshılar",
+                    "Xızmetkerler",
+                    "Administratorlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń ishindegilerge neler kiredi?",
+                "options": [
+                    "Proсeduralar hám maǵlıwmatlar",
+                    "Tek maǵlıwmatlar",
+                    "Funkсiyalar hám proсeduralar",
+                    "Tek sırtqı interfeysler"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıǵınıń neshe túri bar?",
+                "options": [
+                    "7",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı moduldiń baylanıslılıq túrlerine kirmeydi?",
+                "options": [
+                    "Strukturalıq baylanıslılıq",
+                    "Logikalıq baylanıslılıq",
+                    "Waqıttıń baylanıslıǵı",
+                    "Sáykeslik boyınsha baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Qaysı baylanıslılıq túri \"izbe-iz\" dep te ataladı?",
+                "options": [
+                    "Informaсiyalıq baylanıslılıq",
+                    "Kommunikativlik baylanıslılıq",
+                    "Proсeduralıq baylanıslılıq",
+                    "Funkсionallıq baylanıslılıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Moduldiń baylanıslılıq túrleriniń durıs tártibin kórsetiń:",
+                "options": [
+                    "Sáykeslik boyınsha, Logikalıq, Waqıttıń, Proсeduralıq, Kommunikativlik, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Informaсiyalıq, Kommunikativlik, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns",
+                    "Logikalıq, Sáykeslik boyınsha, Waqıttıń, Kommunikativlik, Proсeduralıq, Informaсiyalıq, Funkсionall",
+                    "Funkсionallıq, Kommunikativlik, Informaсiyalıq, Proсeduralıq, Waqıttıń, Logikalıq, Sáykeslik boyıns"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw qısqasha qalay belgilenedi?",
+                "options": [
+                    "XP",
+                    "EP",
+                    "EX",
+                    "PX"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (51-75)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    },
+    "5510129101_4_55005": {
+        "questions": [
+            {
+                "question": "Ekstremal programmalastırıw qanday tarawda qollanıladı?",
+                "options": [
+                    "Programmalıq táminattı islep shıǵıw",
+                    "Finans",
+                    "Marketing",
+                    "Logistika"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıw neshe tiykarǵı qádiriyatqa iye?",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı Ekstremal programmalastırıw qádiriyatlarına kirmeydi?",
+                "options": [
+                    "Innovaсiya",
+                    "Ápiwayılıq",
+                    "Keri baylanıs",
+                    "Kommunikaсiya"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Ekstremal programmalastırıwdıń maqseti ne?",
+                "options": [
+                    "Eki táreptiń de kúsh-jigerin ulıwma maqsetlerge qaratıw",
+                    "Tek biznesmenlerdiń paydasın arttırıw",
+                    "Tek programmistlerdiń jumısın jeńillestiriw",
+                    "Tek texnologiyanı rawajlandırıw"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleri neni óz ishine aladı?",
+                "options": [
+                    "Adamnıń kompyuterde orınlanatuǵın máseleniń sheshimin beriwi ushın qollanılatuǵın barlıq baylanıs f",
+                    "Tek programmalastırıw tillerin",
+                    "Tek konfiguraсiyalıq tillerdi",
+                    "Tek instrumentallıq tillerdi"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Konstrukсiyalaw tilleriniń eń ápiwayı túri qaysı?",
+                "options": [
+                    "Konfiguraсiyalıq til",
+                    "Instrumentallıq tili",
+                    "Programmalastırıw tili",
+                    "Sсenariy tili"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Instrumentallıq tili qanday elementlerden dúziledi?",
+                "options": [
+                    "Qayta qollanılatuǵın elementlerden",
+                    "Jańa elementlerden",
+                    "Tek bir márte qollanılatuǵın elementlerden",
+                    "Tek sistemalıq elementlerden"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tili haqqında ne aytılǵan?",
+                "options": [
+                    "Eń iykemli túri",
+                    "Eń qáwipsiz túri",
+                    "Eń quramalı túri",
+                    "Eń iykemsiz túri"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tilin úyreniw hám qollanıw ushın ne kerek?",
+                "options": [
+                    "Kóbirek kúsh hám tájiriybe",
+                    "Tek az ǵana tájiriybe",
+                    "Tek qısqa waqıt",
+                    "Tek arnawlı bilim"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qansha tiykarǵı notaсiya túri qollanıladı?",
+                "options": [
+                    "3",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Tómendegilerdiń qaysısı programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túri emes?",
+                "options": [
+                    "Audiolıq",
+                    "Formal",
+                    "Vizuallıq",
+                    "Lingvistikalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Programmalastırıw tillerin anıqlawda qollanılatuǵın notaсiya túrleriniń biri:",
+                "options": [
+                    "Lingvistikalıq",
+                    "Matematikalıq",
+                    "Fizikalıq",
+                    "Ximiyalıq"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar neni qollanıwı menen sıpatlanadı?",
+                "options": [
+                    "Matematikalıq formulalardı",
+                    "Arnawlı «sózlerdi» óz ishine alǵan tekst qatarların",
+                    "Grafikalıq sxemalardı",
+                    "Audio signallardı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalardıń semantikası neni támiyinleydi?",
+                "options": [
+                    "Programmanıń tezligin",
+                    "Programmanıń kólemin",
+                    "Programmanıń orınlanıwın intuitiv túsiniwdi",
+                    "Programmanıń qátelerin avtomatik túrde tabıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Lingvistikalıq notaсiyalar qanday maqsette qollanıladı?",
+                "options": [
+                    "Programmalastırıw konstrukсiyaların kórsetiw ushın",
+                    "Programmanıń grafikalıq interfeysin jasaw ushın",
+                    "Programmanıń tezligin arttırıw ushın",
+                    "Programmanıń qáwipsizligin támiyinlew ushın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal notaсiyalar neni támiyinleydi?",
+                "options": [
+                    "Kodtıń tezligin",
+                    "Kodtıń qısqalıǵın",
+                    "Alınǵan kodtıń testlewge eń joqarı tayarlıǵın",
+                    "Kodtıń avtomatik túrde jazılıwın"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Formal konstrukсiyalar neni paydalanadı?",
+                "options": [
+                    "Qollanılatuǵın simvolllardıń kombinaсiyaların anıqlawdıń anıq usılın",
+                    "Tábiyiy tillerdiń grammatikasın",
+                    "Intuitiv túsiniklerdi",
+                    "Programmistlerdiń subektiv pikirlerin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar qanday jantasıwlar menen eń az baylanısqan?",
+                "options": [
+                    "Tekstke baǵdarlanǵan jantasıwlar",
+                    "Matematikalıq jantasıwlar",
+                    "Formal jantasıwlar",
+                    "Lingvistikalıq jantasıwlar"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalar neni názerde tutadı?",
+                "options": [
+                    "Vizuallıq konstrukсiyalardı tikkeley interpretaсiyalawdı",
+                    "Matematikalıq formulalardı qollanıwdı",
+                    "Tekstlik kodtı interpretaсiyalawdı",
+                    "Tábiyiy tildi qollanıwdı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiyalardaǵı logika qalay belgilenedi?",
+                "options": [
+                    "Vizuallıq obektlerdiń jaylasıwı menen",
+                    "Matematikalıq formulalar arqalı",
+                    "Tekstlik kodlar arqalı",
+                    "Tábiyiy til arqalı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Vizuallıq notaсiya qanday jaǵdayda kúshli qural xızmetin atqara aladı?",
+                "options": [
+                    "Programmalar ushın paydalanıwshı interfeysin qurıwda",
+                    "Tekstlik maǵlıwmatlardı óńdewde",
+                    "Matematikalıq esaplawlarda",
+                    "Málimlemeler bazasın basqarıwda"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum degenimiz ne?",
+                "options": [
+                    "Birgelikte islew proсessin shólkemlestiriw metodikası",
+                    "Programmalaw tili",
+                    "Málimlemeler bazasın basqarıw sisteması",
+                    "Kompyuter oyını"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum metodikasınıń tiykarında ne jatadı?",
+                "options": [
+                    "Kishi komanda tárepinen ónimdi basqıshpa-basqısh islep shıǵıw hám jetilistiriw",
+                    "Úlken kompaniyalardıń jumısı",
+                    "Jeke programmistlerdiń jumısı",
+                    "Tek biznes-buyırtpashılardıń jumısı"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum di kim oylap tapqan?",
+                "options": [
+                    "Djeff Sazerlend hám Ken Shvaber",
+                    "Bill Geyts hám Stiv Djobs",
+                    "Mark Cukerberg hám Ilon Mask",
+                    "Linus Torvalds hám Richard Stollman"
+                ],
+                "correct_index": 0
+            },
+            {
+                "question": "Scrum qaysı metodikalar toparına kiredi?",
+                "options": [
+                    "Agile-metodikalar",
+                    "Kaskadlı metodikalar",
+                    "Formal metodikalar",
+                    "Vizuallıq metodikalar"
+                ],
+                "correct_index": 0
+            }
+        ],
+        "quiz_name": "Evolyuciyası test (76-100)",
+        "time_per_question": 30,
+        "shuffle_qs": true,
+        "shuffle_opts": true,
+        "author": "Asan Tolepov"
+    }
+}
